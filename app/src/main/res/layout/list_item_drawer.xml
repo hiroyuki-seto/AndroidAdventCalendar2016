@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+        <variable
+            name="selected"
+            type="Boolean" />
+
+        <variable
+            name="string"
+            type="String" />
+    </data>
+
+    <CheckedTextView
+        android:id="@+id/item_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:checked="@{selected}"
+        android:padding="16dp"
+        android:text="@{string}"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1.Dense" />
+</layout>

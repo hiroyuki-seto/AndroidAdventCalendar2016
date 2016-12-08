@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- dense text appearance definition -->
+    <style name="TextAppearance.AppCompat.Display4.Dense" parent="TextAppearance.AppCompat.Display4" />
+
+    <style name="TextAppearance.AppCompat.Display3.Dense" parent="TextAppearance.AppCompat.Display3" />
+
+    <style name="TextAppearance.AppCompat.Display2.Dense" parent="TextAppearance.AppCompat.Display2" />
+
+    <style name="TextAppearance.AppCompat.Display1.Dense" parent="TextAppearance.AppCompat.Display1" />
+
+    <style name="TextAppearance.AppCompat.Headline.Dense" parent="TextAppearance.AppCompat.Headline" />
+
+    <style name="TextAppearance.AppCompat.Title.Dense" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textSize">21sp</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Subhead.Dense" parent="TextAppearance.AppCompat.Subhead">
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Body2.Dense" parent="TextAppearance.AppCompat.Body2">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Body1.Dense" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Caption.Dense" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Button.Dense" parent="TextAppearance.AppCompat.Button">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="TextAppearance.Widget.AppCompat.Toolbar.Title.Dense" parent="TextAppearance.Widget.AppCompat.Toolbar.Title" />
+
+    <style name="TextAppearance.Widget.AppCompat.Toolbar.Subtitle.Dense" parent="TextAppearance.Widget.AppCompat.Toolbar.Subtitle" />
+
+</resources>

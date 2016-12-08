@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Advent2016</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="list_item">List item %1$d</string>
+    <string name="menu_item">Menu item %1$d</string>
+</resources>
